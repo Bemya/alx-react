@@ -1,5 +1,7 @@
 /*Strict mode is enabled*/ 
 'use strict';
+
+/*jQuery is imported and assigned to the variable*/
 const $ = require('jquery');
 
 $('body').append('<p>Holberton Dashboard</p>');
