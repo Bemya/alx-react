@@ -1,3 +1,4 @@
+/*Strict mode is enabled*/ 
 'use strict';
 const $ = require('jquery');
 
